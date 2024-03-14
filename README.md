@@ -7,7 +7,6 @@
 * [Fontes Consultadas](#fontes-consultadas)
 * [Autores](#autores)
 
-# Exemplo código JavaScript
 
 ## Descrição 📖
 - Nosso trabalho consistiu na criação de um website de cardápio, com foco na temática de pizza. Utilizamos HTML e CSS3 para dar vida ao cardápio, apresentando de forma visualmente atraente as opções disponíveis. Cada detalhe, desde a seleção das fontes até a disposição dos elementos na página, foi cuidadosamente pensado para proporcionar uma experiência envolvente aos usuários.
