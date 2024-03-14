@@ -1,5 +1,3 @@
-# Exemplo-codigo-JavaScript
-
 # Exemplo de códigos em JavaScript
 * [Descrição](#descrição)
 * [Exemplo 1](#exemplo1)
