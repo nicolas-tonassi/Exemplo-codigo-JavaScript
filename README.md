@@ -7,7 +7,7 @@
 
 
 ## Descrição 📖
-- Este projeto visa aprofundar o conhecimento em programação JavaScript, fornecendo uma oportunidade para os estudantes explorarem e implementarem códigos JavaScript prontos encontrados na internet. Os participantes selecionarão dois códigos distintos, cada um com uma funcionalidade específica, e os implementarão usando o ambiente de desenvolvimento VSCode. Ao analisar e compreender a lógica por trás de cada código, os estudantes irão investigar o significado de cada componente e aprender a documentar suas descobertas. A entrega final consistirá na descrição das funcionalidades dos códigos selecionados, detalhando sua implementação e explicando seu funcionamento no arquivo README de um repositório GitHub
+- Este projeto visa aprofundar o conhecimento em programação JavaScript, fornecendo uma oportunidade para os estudantes explorarem e implementarem códigos JavaScript prontos encontrados na internet. Os participantes selecionarão dois códigos distintos, cada um com uma funcionalidade específica, e os implementarão usando o ambiente de desenvolvimento VSCode. Ao analisar e compreender a lógica por trás de cada código, os estudantes irão investigar o significado de cada componente e aprender a documentar suas descobertas. A entrega final consistirá na descrição das funcionalidades dos códigos selecionados, detalhando sua implementação e explicando seu funcionamento no arquivo README de um repositório GitHub.
 
 ## Exemplo 1
 - `<script type="text/javascript">`: Esta linha define um bloco de script em JavaScript e especifica o tipo de script como JavaScript. Isso indica ao navegador que ele deve interpretar o conteúdo dentro das tags `<script>` como código JavaScript.
