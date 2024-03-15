@@ -25,7 +25,7 @@ Esse código é útil para mostrar a data e hora atuais em uma página da web, p
  
 Este código é útil quando se deseja exibir a URL atual da página, por exemplo, em ferramentas de depuração ou em páginas de redirecionamento. Ele fornece uma maneira simples de acessar e exibir a URL atual do navegador.
 
-## Fontes Consultadas 
+## Fontes Consultadas 🔗
 - [Terminal Root](https://terminalroot.com.br/)
 
 ## Autores 👥
